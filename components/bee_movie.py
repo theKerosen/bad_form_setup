@@ -1,6 +1,5 @@
 import os
 
-
 class bee_movie_spam:
     def read_lines(self):
         lines = []
